@@ -1,5 +1,5 @@
 # Task-7-Identify-and-Remove-Suspicious-Browser-Extensions
-Learn to spot and remove potentially harmful browser extensions.
+To identify and remove potentially harmful or unnecessary browser extensions to improve browser security and performance.
 
 ### 🛠️ Tools Used
 - Google Chrome 
